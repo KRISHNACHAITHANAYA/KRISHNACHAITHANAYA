@@ -1,4 +1,5 @@
-
+# 💫 About Me:
+🎓 I’m currently working on<br>Building full stack web applications using Java, HTML, CSS, JavaScript, React, and Spring Boot, while strengthening my backend and database skills.<br><br>🤝 I’m looking to collaborate on<br>Java Full Stack projects, web applications, beginner-friendly open-source projects, and real-world problem-solving apps.<br><br>🛠️ I’m looking for help with<br>Advanced backend development, system design basics, deployment (cloud & DevOps), and optimizing full stack applications.<br><br>🌱 I’m currently learning<br>Java Full Stack Web Development at TAP Academy, including frontend frameworks, backend APIs, databases, and modern web technologies.<br><br>💬 Ask me about<br>Java, Full Stack Web Development, HTML, CSS, JavaScript, React, basic Spring Boot concepts, and getting started with web projects.<br><br>⚡ Fun fact<br>I enjoy turning ideas into working web applications and constantly improving my skills by building projects 🚀
 
 
 ## 🌐 Socials:
