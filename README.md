@@ -1,7 +1,6 @@
-# 👋 Hi, I'm Krishna Chaithanya  
-# 👋 About Me  
+# 👋 Hi, I'm Krishna Chaithanya   
 
-💼 Results-driven **Java Full Stack Developer (Aspiring Professional)** with hands-on experience building scalable web applications using **Java, Spring Boot, React, and Python**.
+💼 Results-driven **Java Full Stack Developer  with hands-on experience building scalable web applications using **Java, Spring Boot, React, and Python**.
 
 🚀 Strong foundation in backend development, REST API design, database management, and responsive frontend development.
 
