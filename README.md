@@ -1,65 +1,73 @@
-# 👋 About Me  
+<div align="center">
 
-💻 Aspiring **Java Full Stack Developer** passionate about building scalable and user-friendly web applications.  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=KRISHNA%20CHAITHANYA&fontSize=60&fontAlignY=35&animation=scaleIn&fontColor=FFFFFF&fontFamily=Montserrat"/>
 
-🚀 I enjoy transforming ideas into real-world solutions using  
-**Java, Spring Boot, React, Python, and modern web technologies.**  
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="380" />
 
-🌱 Currently strengthening my skills in backend development, REST APIs, databases, and cloud fundamentals.  
-
-🤝 Open to collaborating on full stack projects and beginner-friendly open-source contributions.  
-
-⚡ Always learning. Always building. Always improving.
+</div>
 
 ---
 
-## 🌐 Connect With Me  
+## 💫 About Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/krishna_kanjarpane) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-chaithanya-8449a3279/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/its_krishna004) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krishnachaithanya045@gmail.com)
+- 💼 Aspiring **Java Full Stack Developer**
+- 🚀 Building scalable applications using **Java, Spring Boot, React & Python**
+- 🌱 Strengthening skills in **REST APIs, backend architecture & database design**
+- 🤝 Open to **Full Stack and backend-focused real-world projects**
+- 💬 Ask me about **Java, Spring Boot, React & web application development**
+- ⚡ Discipline > Motivation. Consistency builds mastery.
 
 ---
 
-## 🛠️ Tech Stack  
+## 🌐 Connect With Me
 
-### 💻 Languages  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-chaithanya-8449a3279/)
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/krishna_kanjarpane)
+
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/its_krishna004)
+
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krishnachaithanya045@gmail.com)
+
+---
+
+## 💻 Core Tech Stack
+
+### 🚀 Backend & Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+---
+
+### 🌐 Web & Frameworks
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ---
 
-### ⚙️ Backend  
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
-
----
-
-### 🎨 Frontend  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Responsive Design](https://img.shields.io/badge/Responsive-Design-green?style=for-the-badge)
-
----
-
-### 🗄️ Databases  
+### 🗄️ Databases & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
-
-### 🚀 Tools  
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=KRISHNACHAITHANAYA&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=KRISHNACHAITHANAYA&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KRISHNACHAITHANAYA&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=KRISHNACHAITHANAYA&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=KRISHNACHAITHANAYA&theme=dark&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KRISHNACHAITHANAYA&theme=dark&hide_border=true&layout=compact)
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=KRISHNACHAITHANAYA&icon=0&color=0)](https://visitcount.itsvg.in)
