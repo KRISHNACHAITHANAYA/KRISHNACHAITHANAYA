@@ -64,11 +64,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=KRISHNACHAITHANAYA&theme=onedark&no-frame=true&no-bg=true&margin-w=10)
-
----
 
 ## 📊 GitHub Stats
 
