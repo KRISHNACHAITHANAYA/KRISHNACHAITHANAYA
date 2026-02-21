@@ -1,14 +1,15 @@
 # 👋 Hi, I'm Krishna Chaithanya  
+# 👋 About Me  
 
-💻 **Aspiring Java Full Stack Developer**  
-Building scalable web applications using **Java, Spring Boot, React, and modern web technologies.**
+💼 Results-driven **Java Full Stack Developer (Aspiring Professional)** with hands-on experience building scalable web applications using **Java, Spring Boot, React, and Python**.
 
-🚀 Passionate about backend systems, clean UI, and solving real-world problems through code.
+🚀 Strong foundation in backend development, REST API design, database management, and responsive frontend development.
 
-🌱 Currently focusing on:  
-`Java` `Spring Boot` `React` `JavaScript` `MySQL` `REST APIs` `Cloud Basics`
+🔎 Focused on writing clean, maintainable code and building real-world solutions that solve practical problems.
 
-🤝 Open to collaborating on **Full Stack projects & open-source contributions.**
+🌱 Continuously improving in system design fundamentals, performance optimization, and cloud deployment.
+
+🤝 Actively seeking opportunities to contribute to impactful Full Stack projects and grow within a collaborative development team.
 
 ---
 
