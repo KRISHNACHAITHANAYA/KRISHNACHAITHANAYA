@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=KRISHNA%20CHAITHANYA&fontSize=55&fontColor=00F5FF&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:ff512f,100:dd2476&height=200&section=header&text=KRISHNA%20CHAITHANYA&fontSize=55&fontColor=ffffff&animation=scaleIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=24&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=650&lines=Full+Stack+Engineer;Building+Scalable+Systems;Always+Learning+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=24&duration=3000&pause=800&color=FFB347&center=true&vCenter=true&width=650&lines=Java+Developer;Spring+Boot+%7C+React;Consistency+Builds+Mastery"/>
 
 </div>
 
