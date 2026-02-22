@@ -1,10 +1,10 @@
 <div align="center">
 
-<h1>KRISHNA CHAITHANYA</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=KRISHNA%20CHAITHANYA&fontSize=60&fontAlignY=35&animation=scaleIn&fontColor=FFFFFF&fontFamily=Montserrat"/>
 
-<p>
-Java Full Stack Developer • Spring Boot • React • Backend Architecture
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=24&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=650&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+Python;Building+Scalable+Web+Applications;Always+Learning+🚀" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="380" />
 
 </div>
 
